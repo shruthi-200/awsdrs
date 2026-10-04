@@ -122,15 +122,7 @@ A CPU utilization alarm was also configured.
 - CloudWatch
 - Session Manager
 
-### Not Demonstrated
 
-- Real physical production server
-- DRS agent installation on a physical server
-- Continuous physical-server replication
-- Actual physical-server failover
-
-The project therefore represents an AWS-side proof of concept rather
-than a live physical-server recovery demonstration.
 
 ## Security
 
